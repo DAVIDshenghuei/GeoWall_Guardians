@@ -1,0 +1,9 @@
+streamlit>=1.24.0
+folium>=0.14.0
+streamlit-folium>=0.15.0
+rasterio>=1.3.8
+torch>=2.0.0
+pandas>=1.5.3
+numpy>=1.24.3
+PyYAML>=6.0
+instageo @ git+https://github.com/instadeepai/InstaGeo-E2E-Geospatial-ML.git 
