@@ -3,6 +3,7 @@
 
 **GeoWall Guardians** is a web application designed for geospatial analysis, offering an interactive map interface and advanced analytical tools to predict locust breeding grounds using satellite imagery and machine learning.
 
+![screencapture-localhost-8501-2025-02-07-11_10_14](https://github.com/user-attachments/assets/4667255b-d0eb-4a24-b387-676da0a66fad)
 ---
 ## 🚀 Features
 - **Time Range Settings:** Choose start and end dates for analysis.
