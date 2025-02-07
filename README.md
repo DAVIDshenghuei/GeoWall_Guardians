@@ -285,5 +285,3 @@ This project is licensed under the MIT License.
 ---
 ## ❤️ Acknowledgments
 Powered by InstaGeo | GeoAI Hackathon
-
->>>>>>> f4ef771 (add vz)
