@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # GeoWall Guardians 🌍
 
 **GeoWall Guardians** is a web application designed for geospatial analysis, offering an interactive map interface and advanced analytical tools to predict locust breeding grounds using satellite imagery and machine learning.
@@ -39,7 +39,7 @@ git clone https://github.com/yourusername/GEOWALL.git
 #### **Windows:**
 ```bash
 # Navigate to the project directory
-cd GEOWALL/app
+cd .\GEOWALL\app
 
 # Create a virtual environment
 python -m venv venv
